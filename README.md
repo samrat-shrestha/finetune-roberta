@@ -1,5 +1,3 @@
-# DeIdentiPhi
-
 Fine-tuning [obi/deid_roberta_i2b2](https://huggingface.co/obi/deid_roberta_i2b2) for clinical text de-identification with an error-driven retraining loop.
 
 ## What This Project Does
